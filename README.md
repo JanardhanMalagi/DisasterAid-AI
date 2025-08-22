@@ -1,0 +1,1 @@
+A web-based application that provides disaster relief suggestions for cities and areas. Users can type or speak the area name to get information about population and disaster-related data. Built with Streamlit, integrated with a backend API for real-time suggestions.
